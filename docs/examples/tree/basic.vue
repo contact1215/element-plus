@@ -19,13 +19,13 @@ const handleNodeClick = (data: Tree) => {
 
 const data: Tree[] = [
   {
-    label: 'Level one 1',
+    label: '功能菜单',
     children: [
       {
-        label: 'Level two 1-1',
+        label: '工作台',
         children: [
           {
-            label: 'Level three 1-1-1',
+            label: 'office管理',
           },
         ],
       },
